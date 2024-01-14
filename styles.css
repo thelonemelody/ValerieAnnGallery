@@ -1,10 +1,30 @@
 ﻿body {
     font-family: Arial, sans-serif;
     text-align: center;
-    margin: 50px;
+    margin: 10px;
 }
 
 #result {
-    font-size: 18px;
     margin-top: 20px;
+}
+
+.response {
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.body-text {
+    font-size: 16px;
+}
+
+#numberInput {
+    border-radius: 10px; /* Adjust the border-radius to make it round */
+    padding: 5px; /* Add some padding for better appearance */
+    margin-top: 10px; /* Adjust the margin for spacing */
 }
