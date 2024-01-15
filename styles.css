@@ -1,11 +1,20 @@
 ﻿body {
-    font-family: Arial, sans-serif;
+    /*font-family: Arial, sans-serif;*/
+    font-family: "Brush Script MT", cursive;
     text-align: center;
-    margin: 10px;
+    margin: 12px;
+    background-color: black; /* Set the background color to black */
+    color: white; /* Set the text color to white */
 }
 
 #result {
     margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    margin-top: 5px; /* Adjust the top margin of the h1 element */
+    margin-bottom: 5px; /* Adjust the bottom margin of the h1 element */
 }
 
 .response {
@@ -15,16 +24,23 @@
 }
 
 .title {
+    font-family: "Copperplate", Papyrus, fantasy;
     font-size: 20px;
     font-weight: bold;
+    margin-bottom: 20px;
 }
 
 .body-text {
+    font-family: "Courier New", Courier, monospace;
     font-size: 16px;
 }
 
 #numberInput {
-    border-radius: 10px; /* Adjust the border-radius to make it round */
-    padding: 5px; /* Add some padding for better appearance */
-    margin-top: 10px; /* Adjust the margin for spacing */
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 5px;
+    background-color: white; /* Set the background color of the input box to white */
+    color: black; /* Set the text color of the input box to black */
+    width: 30px; /* Set the width to accommodate two digits */
 }
+
