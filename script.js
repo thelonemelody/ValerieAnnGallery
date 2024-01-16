@@ -8,7 +8,7 @@ function displayText() {
     var resultDiv = document.getElementById("result");
 
     // Read data from the remote JSON file
-    readTextFile("https://thelonemelody.github.io/ValerieAnnGallery/responses.json", function(response) {
+    readTextFile("https://thelonemelody.github.io/ValerieAnneGallery/responses.json", function(response) {
         try {
             var data = JSON.parse(response);
 
