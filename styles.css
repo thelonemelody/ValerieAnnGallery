@@ -27,7 +27,7 @@ h1 {
     font-family: "Copperplate", Papyrus, fantasy;
     font-size: 20px;
     font-weight: bold;
-    margin-bottom: 20px;
+    line-height: 40px;
 }
 
 .body-text {
@@ -36,11 +36,15 @@ h1 {
 }
 
 #numberInput {
-    border-radius: 10px;
-    padding: 5px;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', serif;
+    padding: 10px;
     margin-top: 5px;
-    background-color: white; /* Set the background color of the input box to white */
-    color: black; /* Set the text color of the input box to black */
-    width: 30px; /* Set the width to accommodate two digits */
+    background-color: black;
+    color: white;
+    width: 35px;
+    text-align: center;
 }
 
