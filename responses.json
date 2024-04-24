@@ -42,7 +42,12 @@
   {
     "doc_key": "-1",
     "title": "-1 is an intresting choice",
-    "body": "What made you think that a negative number would make any sense for an art peice? However, how do you know that is a negative? It might just be a dash. And do you know what two dashes does?"
+    "body": "What made you think that a negative number would make any sense for an art peice? Speaking of things that don't make sense, what does adding a .0 to the end of the number do?"
+  },
+  {
+    "doc_key": "-1.0",
+    "title": "-1 != -1.0",
+    "body": "Aparently the .0 adds so much value they are not equal anymore. Weird"
   },
   {
     "doc_key": "--1",
