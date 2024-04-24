@@ -7,32 +7,27 @@
   {
     "doc_key": "no_value",
     "title": "Please enter a number",
-    "body": "Enter the number of the artpiece you would like to view. -V4"
-  },
-  {
-    "doc_key": "1",
-    "title": "Art Piece 1",
-    "body": "Super fancy wavy midnight inspired by my boyfriend's marvelous hair.."
-  },
-  {
-    "doc_key": "2",
-    "title": "This is title text for entry 2",
-    "body": "Due to my boyfriend's lovely piano planing, I had to create this piece with such vivid colors in an attempt to capture the picture he paints with the hammers of the piano."
-  },
-  {
-    "doc_key": "3",
-    "title": "This piece has the title: Art Piece No. 3",
-    "body": "This is the body text for entry 3. It was inspired by my soon to be Fiancé's body. That is why it is so amazing."
-  },
-  {
-    "doc_key": "4",
-    "title": "Test 4",
-    "body": "Let's go!"
+    "body": "Enter the number of the artpiece you would like to view. (V5)"
   },
   {
     "doc_key": ".1",
-    "title": "Humm .1? ",
-    "body": "Why? .1 is an intresting choice. Did you want just part of an art description?"
+    "title": "Art Piece .1",
+    "body": "Super fancy wavy midnight inspired by my boyfriend's marvelous hair.."
+  },
+  {
+    "doc_key": ".2",
+    "title": "This is title text for entry .2",
+    "body": "Due to my boyfriend's lovely piano planing, I had to create this piece with such vivid colors in an attempt to capture the picture he paints with the hammers of the piano."
+  },
+  {
+    "doc_key": ".3",
+    "title": "This piece has the title: Art Piece No. .3",
+    "body": "This is the body text for entry 3. It was inspired by my soon to be Fiancé's body. That is why it is so amazing."
+  },
+  {
+    "doc_key": ".4",
+    "title": "Test .4",
+    "body": "Let's go!"
   },
   {
     "doc_key": "-1",
@@ -103,7 +98,140 @@
     "doc_key": "9.81",
     "title": "9.81 m/s^2 now this is a very nerdy number",
     "body": "You have made it to the end for now."
+  },
+  {
+    "doc_key": "1",
+    "title": "Dysmorphic",
+    "body": "In the face of perfection, I see only flaws. The focus of mine shall now only be. How silent the sabotage, set loose on myself. The truth my own eyes will never now see."
+  },
+  {
+    "doc_key": "2",
+    "title": "Fairies",
+    "body": "Movement sketch studies from dancing at a Renaissance fair. An attempt to capture a moment of ethereal beauty in dance."
+  },
+  {
+    "doc_key": "3",
+    "title": "Co-Creator",
+    "body": "The unmoved mover cannot be I. I stand understood by the fellow mind. I don't mind the wave of life that I know, I am only grateful to be in the flow."
+  },
+  {
+    "doc_key": "4",
+    "title": "Mermaid",
+    "body": "Sketch study of a High school Senior Photo. There was a photoshoot themed with the fantastical underwater world of mermaids in mind so that I could wear something I made to express my artistic pursuits after graduation."
+  },
+  {
+    "doc_key": "5",
+    "title": "Sister",
+    "body": "My close friend Bailey, whom I miss dearly, next to me, dressed to dance. Whom I will always attribute my love for art with."
+  },
+  {
+    "doc_key": "6",
+    "title": "Face Time",
+    "body": "I swear I was paying attention, but I drew this while looking at my face on zoom during a class."
+  },
+  {
+    "doc_key": "7",
+    "title": "Mirror",
+    "body": "Blood brother, I stared at the glass trying to find your eyes in mine. Oh mother, I see you at last looking at the shape of my nose and lines."
+  },
+  {
+    "doc_key": "8",
+    "title": "Rock Candy",
+    "body": "Trying to be more comfortable on camera, I took myself and rock candy outside in the wind. But my hair was up, and the wind was cold. I was really only thinking about going back in."
+  },
+  {
+    "doc_key": "9",
+    "title": "Angles",
+    "body": "If I'm made up of shapes, what shapes can I find. I see angles and big eyes and many straight lines."
+  },
+  {
+    "doc_key": "10",
+    "title": "No power",
+    "body": "I have a friend afraid of things from other worlds. I want her to know they cannot hurt her anymore. With the authority inherited from her Father, the trees, her soul, mind, or body, have no power over her."
+  },
+  {
+    "doc_key": "11",
+    "title": "Squirrels",
+    "body": "I wore my Grandmother's Jewelry from the things she left behind for us. But no matter what she wore, the shiniest part of her was the Christ in her eyes."
+  },
+  {
+    "doc_key": "12",
+    "title": "Potential",
+    "body": "Oh, this thing, it's a good thing, a beautiful thing to behold. But what is the price of accepting such a gift? If they know what I am capable of will they only expect such greatness? Should I ever hide in the dark from the fear of my own callings?"
+  },
+  {
+    "doc_key": "13",
+    "title": "Heart and Mind",
+    "body": "Foolish heart, you stray so far from reality. Why listen to you when all you do is direct me toward misery in hopes of love? You seek without the means to achieve it. I weep for us in spite of my disdain. But for my mind I am kept in peace, quiet when I should and succinct when should be pleasing. But tell me heart, what do I need?"
+  },
+  {
+    "doc_key": "14",
+    "title": "Ancient",
+    "body": "A study for a painting I've yet to make, inspired by Hellenistic properties used in the modeling of the fabric, pose, and emotion, but with a simple exploration of the orange and blue color pallet."
+  },
+  {
+    "doc_key": "15",
+    "title": "Maybe I'm Beautiful",
+    "body": "This may be a shock to hear, but only recently did I discover I was beautiful. I had never given much thought to how I looked, and it had nit crossed my mind. I saw it in a polaroid my friend took of me, so, I drew this page about the experience of the discovery."
+  },
+  {
+    "doc_key": "16",
+    "title": "Medicine",
+    "body": "This is the sketch that inspired the cat paintings in the Gallery. This original study was about holding something so precious but small in your hands, something that could save you. It's not a wonder then how I then went to hold my cat."
+  },
+  {
+    "doc_key": "17",
+    "title": "Falling Asleep",
+    "body": "As a long sufferer of insomnia, the struggle of falling asleep is a regular occurrence for me. The vividity of my dreams are a subconscious fear that drives relaxing enough to sleep away. So, as I was waiting for sleep to arrive I drew what was around me. You can note the presence of my Iron pills, an Alarm Clock, Frederick my stuffed bear, a pillow, a blanket, and an alarm clock nearing 6:00am."
+  },
+  {
+    "doc_key": "18",
+    "title": "Pumpkin Pie",
+    "body": "She was my girl, my sweet girl, she passed away in my arms. She was like a song of lament from the golden age of cinema, she was gorgeous, and she acted like it. She was my age; we grew up together."
+  },
+  {
+    "doc_key": "19",
+    "title": "Horse girl",
+    "body": "I love horses, I had one. But this is just a random horse I saw a picture of. Isn't he handsome????"
+  },
+  {
+    "doc_key": "20",
+    "title": "Bedside",
+    "body": "An assortment of little sketches but the most visible is my stuffed bear, Frederic. He is a common view at my childhood bedside table."
+  },
+  {
+    "doc_key": "21",
+    "title": "Book cover",
+    "body": "Symbolism in this design was very important to me. It was for a wood bound notebook that I now use almost daily. I designed the side to have celestial bodies, for my love of the sky, a cat skeleton for my love of cats and anatomy, and a dead flower that was given to me by one of my best friends when we first met. (yes, the flower was dead when he gave it to me)"
+  },
+  {
+    "doc_key": "22",
+    "title": "Missing you",
+    "body": "Two hands, one my own and one, my grandmothers. These hands learned to love creating from hers. Tied by blood together and by need for creation. She passed away while I was here at BC. Her hand is drawn from the last photo I was in with her, and my hand is posed in the sign language slang for \"I love you.\""
+  },
+  {
+    "doc_key": "23",
+    "title": "Pixies",
+    "body": "Two costume designs for a naturalistic fairy design with direct inspiration for the outfits coming from real natural and accessible materials. One is designed with my favorite moth (Hepialus Humuli) the Ghost moth and the other is designed by looking at the Valerian plant."
+  },
+  {
+    "doc_key": "24",
+    "title": "Oh Mother",
+    "body": "She then holds the child who was taken from her. How horrible a tragedy to die later then your offspring, I wish only that you hold us as tightly as you would have Him when you grieved over his leaving. Mother I am still here, but she is gone, and I can't hold her. She left me here alone, but to you I cling. Together we hold onto what we know is already gone forward, waiting for us to follow."
+  },
+  {
+    "doc_key": "25",
+    "title": "In crowd",
+    "body": "Who are you waiting for? This is not where you wanted to be, I don't think you know what you want. I can't find it for you… maybe ask them instead. Who are you looking for? They are not who you wanted to talk to, I don't think you know who you're looking for. Maybe just wait a little instead… Who are you waiting for? This is not where you wanted to be…"
+  },
+  {
+    "doc_key": "26",
+    "title": "Grow up",
+    "body": "The first to die. My horse, a creature I was incredibly lucky to have and to have tamed. Or did he tame me? Whichever the case, I'm left wishing I spent more time with him, that I was still the little me who would be free to ride whenever I could. I can't do that now; I can't just go run with him anymore. More than a beast, he was my friend"
+  },
+  {
+    "doc_key": "27",
+    "title": "Psyche",
+    "body": "The first self-portrait of college. Little did I know it would set me on this path, now here we stare at the gallery full of these pieces. I am not so sure it looks like me, but at one time we were one. Now look how we've grown."
   }
 ]
-
-
