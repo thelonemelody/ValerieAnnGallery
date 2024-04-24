@@ -7,7 +7,7 @@
   {
     "doc_key": "no_value",
     "title": "Please enter a number",
-    "body": "Enter the number of the artpiece you would like to view. \n\n\n Sight Version = V1"
+    "body": "Enter the number of the artpiece you would like to view. \\n\\n\\n Sight Version = V2"
   },
   {
     "doc_key": "1",
@@ -47,12 +47,32 @@
   {
     "doc_key": "-1.0",
     "title": "-1 != -1.0",
-    "body": "Aparently the .0 adds so much value they are not equal anymore. Weird. \n Wait, so adding a zero to the end of the number changed something. I wonder what would happen if I..."
+    "body": "Aparently the .0 adds so much value they are not equal anymore. Weird. \\n Wait, so adding a zero to the end of the number changed something. I wonder what would happen if I..."
   },
   {
     "doc_key": "-01.0",
     "title": "-01.0 is a silly number",
-    "body": "We are in silly mode now."
+    "body": "We are in silly mode now. What kind of number -01.0 and why is it different from -1.0 or -1? Do we even need the 1??"
+  },
+  {
+    "doc_key": "-0.0",
+    "title": "-0.0 is a little redundant",
+    "body": "The negative sign doesn't change anything. The trailing zero doesn't do anything. However, why stop with two zeros when you could have 4?"
+  },
+  {
+    "doc_key": "-0.000",
+    "title": "Really?!",
+    "body": "You could have at least made symetrical."
+  },
+  {
+    "doc_key": "-000.0",
+    "title": "Really?!",
+    "body": "You could have at least made symetrical."
+  },
+  {
+    "doc_key": "-00.00",
+    "title": "Very negative, very zero",
+    "body": "I bet this is the firt time you have entered the number -00.00 into anything. This is one of those time where you ask yourself, \"How did I get here?\""
   }
 ]
 
