@@ -28,5 +28,21 @@
     "doc_key": "4",
     "title": "Test 4",
     "body": "Let's go!"
+  },
+  {
+    "doc_key": ".1",
+    "title": "Humm .1? ",
+    "body": "Why? .1 is an intresting choice"
+  },
+  {
+    "doc_key": "00.00",
+    "title": "THE 00.00",
+    "body": "I am guessing you found 0.0?"
+  },
+  {
+    "doc_key": "-1",
+    "title": "Humm -1 is an intresting choice",
+    "body": "Why?"
   }
 ]
+
