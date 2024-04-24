@@ -7,7 +7,7 @@
   {
     "doc_key": "no_value",
     "title": "Please enter a number",
-    "body": "Enter the number of the artpiece you would like to view. \n \n \n Sight Version = V3"
+    "body": "Enter the number of the artpiece you would like to view. -V4"
   },
   {
     "doc_key": "1",
@@ -67,7 +67,43 @@
   {
     "doc_key": "-00.00",
     "title": "-00.00 Very negative, very zero",
-    "body": "I bet this is the firt time you have entered the number -00.00 into anything. This is one of those time where you ask yourself, \"How did I get here?\""
+    "body": "I bet this is the firt time you have entered the number -00.00 into anything. This is one of those time where you ask yourself, \"How did I get here?\". Now that pesky negitive is really messing up the symmetry"
+  },
+  {
+    "doc_key": "00.00",
+    "title": "00.00 just very zero",
+    "body": "This is very symmetrical and very satisfying. Speaking of satisfying, what do you think would be the most tasty number?"
+  },
+  {
+    "doc_key": "3.14",
+    "title": "3.14 Exactly, pi is yum",
+    "body": "But this is not very much pi"
+  },
+  {
+    "doc_key": "3.141",
+    "title": "3.141",
+    "body": "MORE!"
+  },
+  {
+    "doc_key": "3.1415",
+    "title": "3.1415",
+    "body": "MORE!!"
+  },
+  {
+    "doc_key": "3.14159",
+    "title": "3.14159",
+    "body": "MORE!!!"
+  },
+  {
+    "doc_key": "3.141593",
+    "title": "3.141593 now that is a probably enough pi",
+    "body": "If we used this value to calculate the diamter of the earth we would only have error of about 40ft. Pretty crazy right? Speaking of the earth, how much does it accelerate things? Ask any real engineer. Remember imperial blood has been mostly destroyed!"
+  },
+  {
+    "doc_key": "9.81",
+    "title": "9.81 m/s^2 now this is a very nerdy number",
+    "body": "You have made it to the end for now."
   }
 ]
+
 
