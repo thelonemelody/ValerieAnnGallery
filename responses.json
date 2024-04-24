@@ -7,7 +7,7 @@
   {
     "doc_key": "no_value",
     "title": "Please enter a number",
-    "body": "Enter the number of the artpiece you would like to view."
+    "body": "Enter the number of the artpiece you would like to view. \n\n\n Sight Version = V1"
   },
   {
     "doc_key": "1",
@@ -47,12 +47,12 @@
   {
     "doc_key": "-1.0",
     "title": "-1 != -1.0",
-    "body": "Aparently the .0 adds so much value they are not equal anymore. Weird"
+    "body": "Aparently the .0 adds so much value they are not equal anymore. Weird. \n Wait, so adding a zero to the end of the number changed something. I wonder what would happen if I..."
   },
   {
-    "doc_key": "--1",
-    "title": "-- = fast",
-    "body": "dash dash is an extra fast becuase a dash is a fast which makes a dash dash an extra fast. However, enough with these silly dashes, lets go back to negative numbers. What would be the most meaningless negative number? Probably one that is also equal to its postive counterpart."
+    "doc_key": "-01.0",
+    "title": "-01.0 is a silly number",
+    "body": "We are in silly mode now."
   }
 ]
 
